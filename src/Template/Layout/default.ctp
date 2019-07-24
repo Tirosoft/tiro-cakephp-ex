@@ -210,7 +210,7 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Welcome to your Tiro-CakePHP application on OpenShift - triggered build</h1>
+           <h1>Welcome to your Tiro-CakePHP application on OpenShift - triggered build v2</h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>
